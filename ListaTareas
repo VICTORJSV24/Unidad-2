@@ -1,0 +1,25 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/**
+ *
+ * @author Usuario
+ */
+public class ListaTareas {
+    public static void main (String []arg){
+    String tarea1 = "bañarse";  
+    String tarea2 = "tender la cama";
+    String tarea3 = "desayunar";
+    String tarea4 = "preparar su mochila";
+    String tarea5 = "ir a la escuela";
+    
+   System.out.println("la primera tarea que debo hacer es" +tarea1);
+   System.out.println("la segunda tarea que debo hacer es" +tarea2);
+   System.out.println("la tercera tarea que debo hacer es" +tarea3);
+   System.out.println("la cuarta tarea que debo hacer es" +tarea4);
+   System.out.println("la quinta tarea que debo hacer es" +tarea5);
+    }
+}
